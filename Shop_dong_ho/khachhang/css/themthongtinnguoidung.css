@@ -1,0 +1,44 @@
+h2{
+	text-align: center;
+	font-size: 26px;
+}
+.themthongtinnguoidung{
+	width: 100%;
+	height: 100px;
+	
+
+}
+.formthongtinnguoidung{
+	width: 40%;
+	height: auto;
+	margin: 0 auto;
+	
+
+}
+.themthongtinnguoidung label{
+	font-size: 20px;
+}
+.themthongtinnguoidung input{
+	font-size: 16px;
+	padding: 12px;
+	width: 65%;
+}
+.themthongtinnguoidung input:focus{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.themthongtinnguoidung{
+	text-align: center;
+}
+#themthongtinnguoidung{
+	background-color: #00cec9;
+	font-size: 18px;
+	cursor: pointer;
+
+}
+
+#themthongtinnguoidung:hover{
+	background-color: #00b894;
+	transition: 0.75s ease-in-out;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}

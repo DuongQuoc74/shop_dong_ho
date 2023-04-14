@@ -1,0 +1,112 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.warpper{
+	height: auto;
+	width: 100%;
+}
+.header{
+	height: 180px;
+	width: 100%;
+	background-image: url("../images/header.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 150px;
+
+}
+.menu{
+	padding: 21px;
+	height: 100px;
+	width: 100%;
+	
+}
+.list-menu{
+	padding: 0;
+    margin: 0 auto;
+    list-style: none;
+    line-height: 76px;
+    width: 66%;
+
+}
+.list-menu li{
+	float: left;
+	margin: 7px;
+	padding: 5px;
+}
+
+.list-menu li a{
+	text-decoration: none;
+	color: black;
+}
+.list-menu a:hover{
+	
+	color: red;
+	border-bottom: 1px solid black;
+	cursor: pointer;
+
+}
+.main{
+	height: auto px;
+	width: 100%;
+
+}
+.slider{
+	height: 300px;
+	width: 100%;
+	
+}
+.slidebar{
+
+	height: 650px;
+	width: 16%;
+	margin-top: 5px;
+	margin-left: 5px;
+	float: left;
+	
+
+}
+.list-slidebar{
+	width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.list-slidebar li{
+
+	cursor: pointer;
+	padding: 8px;
+}
+
+.list-slidebar li:hover{
+
+	cursor: pointer;
+	background-color: darkgray;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.list-slidebar li a{
+	text-decoration: none;
+	color: black;
+	display: block;
+	text-align: center;
+	cursor: pointer;
+}
+
+.main-content{
+	height: auto;
+	width: 83%;
+	margin-top: 5px;
+	margin-left: 5px;
+	float: left;
+}
+
+
+.clear{
+	clear: both;
+}
+.footer{
+	height: auto;
+	width: 100%;
+}
+
+

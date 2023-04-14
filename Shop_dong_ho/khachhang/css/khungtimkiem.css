@@ -1,0 +1,21 @@
+.khungtimkiem{
+	padding-top: 60px;
+	text-align: right;
+}
+.thanhtimkiem{
+	width: 21%;
+    padding: 4px;
+}
+.thanhtimkiem:focus{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.nuttimkiem{
+	padding: 4px;
+    background-color: bisque;
+    cursor: pointer;
+}
+.nuttimkiem:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-color: #fdcb6e;
+
+}

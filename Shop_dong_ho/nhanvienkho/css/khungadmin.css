@@ -1,0 +1,35 @@
+.khungmenuadmin{
+	width:  100%;
+	height: auto;
+}
+.menuadmin{
+ 		
+
+ 	list-style: none;
+ 	
+
+}
+.menuadmin li{
+ 	
+ 	float: left;
+ 	margin: 10px;
+ 	padding: 10px;
+
+}
+
+.menuadmin li a{
+ 	
+ 	text-decoration: none;
+ 	color: black;
+
+}
+
+
+
+.menuadmin a:hover{
+	
+	color: red;
+	border-bottom: 1px solid black;
+	cursor: pointer;
+
+}

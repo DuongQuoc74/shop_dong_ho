@@ -1,0 +1,87 @@
+th{
+	background-color: #636e72;
+
+}
+
+td{
+	cursor: pointer;
+
+}
+td:hover{
+	background-color: #ffeaa7;
+}
+
+/*thêm danh mục*/
+label{
+	font-size: 23px;
+	color: #1B9CFCs;
+}
+.themdanhmuc{
+	width: 30%;
+	margin: 0 auto;
+	height: auto;
+}
+.nhomdanhmuc{
+	padding: 12px;
+	margin: 15px;
+	font-size: 16px
+}
+.nhomdanhmuc input{
+	font-size: 16px;
+	padding: 12px;
+	width: 77%;
+	text-align: center;
+}
+#themdanhmuc{
+	background-color: #fdcb6e;
+	text-align: center;
+	font-size: 16px;
+	padding: 12px;
+	margin-left: 13px;
+}
+
+.nhomdanhmuc .invalid .thongbao{
+  /*color: #f33a58;*/
+  color: red;
+  font-size: 18px;
+}
+.thongbao{
+  font-size: 18px;
+  color: red;
+  margin: 0px 0px 0px -65px;
+  text-align: center;
+}
+
+.chucnang{
+	   width: 15%;
+    border: solid 1px;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.chucnang:hover{
+	background-color:darkgray;
+}
+.chucnang a{
+	text-decoration: none;
+	color: black;
+}
+
+
+/*thêm sản phẩm */
+
+#themsanpham{
+	background-color: #fdcb6e;
+	text-align: center;
+	font-size: 16px;
+	padding: 12px;
+	margin-left: 13px;
+}
+
+select{
+	font-size: 18px;
+  padding: 15px;
+}
+

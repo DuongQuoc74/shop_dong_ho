@@ -1,0 +1,1 @@
+<p>Xin cám ơn vì đã mua hàng</p>
